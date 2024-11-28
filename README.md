@@ -8,3 +8,5 @@ The materials include exercises, given in the class as well as all the necessary
 -------------------------------
 Note: Will also add the class's projects to the repository for archiving purpose.
 -------------------------------
+
+The first project is the generalized sudoku. Simply put, i was trying to solve a sudoku using Answer Set Programming.
