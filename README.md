@@ -17,3 +17,5 @@ Note to self: Talk about the different projects in more details and emphasize ho
 Project #1: Sudoku
 
 Project #2: Grounding
+
+Project #3: Yosenabe
