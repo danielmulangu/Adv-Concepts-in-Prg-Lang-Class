@@ -15,3 +15,5 @@ The first project is the generalized sudoku. Simply put, i was trying to solve a
 Note to self: Talk about the different projects in more details and emphasize how it helped me understand the course better
 
 Project #1: Sudoku
+
+Project #2: Grounding
