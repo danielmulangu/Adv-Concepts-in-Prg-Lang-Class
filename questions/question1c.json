@@ -1,0 +1,7 @@
+{
+    "type"          : "exact",
+    "instance-path" : "instances/4x4",
+    "solutions"     : "solutions/q1c",
+    "encoding"      : ["sudoku1c.lp"],
+    "points"        : 15
+}

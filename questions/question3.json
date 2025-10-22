@@ -1,0 +1,5 @@
+{
+    "type"          : "all",
+    "questions"     : [ "3a", "3b", "3c", "3d" ],
+    "points"        : 10
+}

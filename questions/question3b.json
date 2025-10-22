@@ -1,0 +1,6 @@
+{
+    "type"          : "exact",
+    "instance-path" : "instances/q3/4x4",
+    "solutions"     : "solutions/q1c",
+    "encoding"      : "sudoku3.lp"
+}
